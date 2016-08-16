@@ -1,2 +1,2 @@
 # compressor
-Basic file compressor using shannon-fano coding
+Basic file compressor using shannon-fano algorithm
